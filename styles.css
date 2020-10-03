@@ -36,8 +36,19 @@ body {
   width: 95%;
   }
 
-  .nav1 a:hover {
+.nav1 a:hover {
   background-color: black;
+  }
+
+.sidedesc a {
+  color: #9BC53D;
+  font-size: 15px;
+  font-family: Arial;
+  text-decoration: none;
+  }
+
+.sidedesc a:hover {
+  color: black;
   }
 
 a {
